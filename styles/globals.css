@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: 'Roboto', sans-serif;
+  background-color: #f7fafc;
+}
+
+h1, h2, h3 {
+  font-family: 'Montserrat', sans-serif;
+}
